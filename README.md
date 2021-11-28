@@ -1,2 +1,2 @@
 # SuperComDuino
-Arduino implementation of the classic 'Supercomputer' blinking algorithm inspired by the 'BigCliveLive'
+Arduino implementation of the classic 'Supercomputer' blinking algorithm inspired by the 'BigCliveLive' youtube channel
