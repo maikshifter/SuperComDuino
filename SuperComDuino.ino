@@ -639,6 +639,7 @@ void loop()
            case PATTERN_SUPERCOMPUTER_A:
            case PATTERN_SUPERCOMPUTER_B:
            case PATTERN_SUPERCOMPUTER_C:
+           case PATTERN_SUPERCOMPUTER_D:
            {
              //force a catchup of the flashers clocks to 'now' time
              uint16_t u16TicksNow = g_u16TimerTicks;
